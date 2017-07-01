@@ -1,4 +1,4 @@
-package lab.Collections;
+package lab.Collection;
 
 import java.util.ArrayList;
 import java.util.HashSet;

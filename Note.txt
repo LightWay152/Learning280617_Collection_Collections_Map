@@ -1,0 +1,5 @@
+﻿1/ Collection:
+Map - HashMap
+Set - HashSet
+2/ Collections: utilies of Collection
+Shuffle, Sort, Rotate,...
